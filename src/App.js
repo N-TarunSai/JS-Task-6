@@ -2,9 +2,9 @@ import React from "react";
 
 const App = () => {
   const portfolioData = {
-    name: "Sravana Kumar",
-    reg:"21BCE8575",
-    place: "Rajahmundry, India",
+    name: "Tarun Sai",
+    reg:"21BCE7900",
+    place: "Vijayawada, India",
     skills: ["Artifical Intelligence", "Machine learning", "App Development", "Web Development","Public Speaking","Debate","Event Management"],
     projects: [
       {
